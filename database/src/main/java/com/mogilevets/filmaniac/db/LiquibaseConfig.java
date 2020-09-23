@@ -1,3 +1,5 @@
+package com.mogilevets.filmaniac.db;
+
 import liquibase.integration.spring.SpringLiquibase;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

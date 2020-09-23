@@ -1,0 +1,4 @@
+databaseChangeLog:
+  - include:
+      - file: db/changelog/init_structure/1.base.sql
+      - relativeToChangelogFile: true
